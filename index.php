@@ -3,7 +3,7 @@
 <body>
 
 <h1>Devops first class.
-  Want to upload images</h1>
+  Want to upload jpeg</h1>
 
 <?php
 echo "version 1.0";
