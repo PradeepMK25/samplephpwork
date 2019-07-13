@@ -5,7 +5,7 @@
 <h1>Devops Test Class</h1>
 
 <?php
-echo "version 1.0";
+echo "v 1.0";
 ?>
 
 </body>
